@@ -1048,7 +1048,9 @@ a {
   }
 }
 .cid-uasLj4kONd {
-  background-image: url("../../../assets/images/background13.jpg");
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-uasLj4kONd .mbr-fallback-image.disabled {
   display: none;
